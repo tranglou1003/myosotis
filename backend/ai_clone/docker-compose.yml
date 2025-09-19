@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  ai_worker:
+    build: .
+    ports:
+      - "8779:8779"
+    volumes:
+      # Essential AI models and checkpoints (large files, must persist)
+      - ./ai_models:/app/ai_models
+      - ./ai_service/Sonic/checkpoints:/app/ai_service/Sonic/checkpoints
+      - ./ai_service/voiceclone_tts/model_english:/app/ai_service/voiceclone_tts/model_english
+      - ./ai_service/voiceclone_tts/f5_tts_repo:/app/ai_service/voiceclone_tts/f5_tts_repo
+      
+      # Resources and examples
+      - ./ai_service/Sonic/res_path:/app/ai_service/Sonic/res_path
+      - ./ai_service/voiceclone_tts/examples:/app/ai_service/voiceclone_tts/examples
+      
+      # Output and results (user-generated content)
+      - ./ai_service/voiceclone_tts/results:/app/ai_service/voiceclone_tts/results
+      - ./public/human_clone:/app/public/human_clone
+    
+    tmpfs:
+      # Temporary files in memory for better performance
+      - /app/ai_service/Sonic/tmp_path
+      - /app/ai_service/Sonic/output
+      - /app/ai_service/voiceclone_tts/uploads
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    environment:
+      - CUDA_VISIBLE_DEVICES=0,1
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+    restart: unless-stopped

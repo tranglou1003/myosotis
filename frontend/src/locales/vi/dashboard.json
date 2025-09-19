@@ -1,0 +1,179 @@
+{
+  "navigation": {
+    "dashboard": "Bảng Điều Khiển",
+    "myAccount": "Tài Khoản Của Tôi",
+    "discover": "Khám Phá",
+    "faq": "Câu Hỏi Thường Gặp"
+  },
+  "buttons": {
+    "createNewSchedule": "Tạo Lịch Trình Mới",
+    "signOut": "Đăng xuất",
+    "edit": "Chỉnh Sửa",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "previousMonth": "Tháng Trước",
+    "nextMonth": "Tháng Sau"
+  },
+  "notifications": {
+    "scheduleComingSoon": "Tính năng Lịch trình sắp ra mắt!"
+  },
+  "branding": {
+    "myosotis": "Myosotis"
+  },
+  "homePage": {
+    "title": "Bảng Điều Khiển",
+    "description": "Chào mừng đến với bảng điều khiển sức khỏe và chăm sóc trí nhớ của bạn",
+    "features": {
+      "livingMemories": {
+        "title": "Ký Ức Sống Động",
+        "subtitle": "Tạo avatar AI với giọng nói của người thân"
+      },
+      "memoryTest": {
+        "title": "Kiểm Tra Trí Nhớ",
+        "subtitle": "Thực hiện bài đánh giá nhận thức"
+      },
+      "careCompanion": {
+        "title": "Bạn Đồng Hành Chăm Sóc",
+        "subtitle": "Trò chuyện với bạn đồng hành AI"
+      },
+      "memoryFilms": {
+        "title": "Thước Phim Ký Ức",
+        "subtitle": "Xem những kỷ niệm yêu dấu của bạn"
+      },
+      "memoryMap": {
+        "title": "Bản Đồ Ký Ức",
+        "subtitle": "Khám phá địa điểm và tạo ký ức theo vị trí"
+      },
+      "miniGames": {
+        "title": "Trò Chơi Nhỏ",
+        "subtitle": "Rèn luyện trí não với trò chơi Sudoku"
+      }
+    },
+    "calendar": {
+      "months": {
+        "january": "Tháng Một",
+        "february": "Tháng Hai",
+        "march": "Tháng Ba",
+        "april": "Tháng Tư",
+        "may": "Tháng Năm",
+        "june": "Tháng Sáu",
+        "july": "Tháng Bảy",
+        "august": "Tháng Tám",
+        "september": "Tháng Chín",
+        "october": "Tháng Mười",
+        "november": "Tháng Mười Một",
+        "december": "Tháng Mười Hai"
+      },
+      "daysOfWeekShort": {
+        "monday": "T2",
+        "tuesday": "T3",
+        "wednesday": "T4",
+        "thursday": "T5",
+        "friday": "T6",
+        "saturday": "T7",
+        "sunday": "CN"
+      }
+    },
+    "healthAssistant": {
+      "title": "Trợ Lý Sức Khỏe Của Bạn",
+      "description": "Sẵn sàng giúp đỡ bạn trên hành trình sức khỏe"
+    }
+  },
+  "discoverPage": {
+    "title": "Khám Phá",
+    "description": "Khám phá tất cả các tính năng và công cụ có sẵn",
+    "features": {
+      "livingMemories": {
+        "title": "Ký Ức Sống Động",
+        "description": "Tạo avatar AI với giọng nói của người thân"
+      },
+      "memoryTest": {
+        "title": "Kiểm Tra Trí Nhớ (MMSE)",
+        "description": "Thực hiện các bài kiểm tra đánh giá nhận thức"
+      },
+      "memoryFilms": {
+        "title": "Thước Phim Ký Ức",
+        "description": "Xem lại ảnh và những kỷ niệm của bạn"
+      },
+      "scoreAnalysis": {
+        "title": "Phân Tích Điểm Số",
+        "description": "Xem kết quả kiểm tra MMSE và theo dõi tiến trình của bạn"
+      },
+      "careCompanion": {
+        "title": "Bạn Đồng Hành Chăm Sóc",
+        "description": "Trò chuyện với bạn đồng hành AI"
+      },
+      "emergencyContacts": {
+        "title": "Liên Hệ Khẩn Cấp",
+        "description": "Quản lý các liên hệ khẩn cấp và người chăm sóc"
+      },
+      "memoryMap": {
+        "title": "Bản Đồ Ký Ức",
+        "description": "Khám phá địa điểm và tạo ký ức theo vị trí với Chế độ xem phố"
+      },
+      "miniGames": {
+        "title": "Trò Chơi Nhỏ",
+        "description": "Rèn luyện trí não với Sudoku và các câu đố trí tuệ khác"
+      },
+      "faq": {
+        "title": "Câu Hỏi Thường Gặp",
+        "description": "Tìm câu trả lời cho các câu hỏi thường gặp về chăm sóc Alzheimer"
+      }
+    }
+  },
+  "accountPage": {
+    "title": "Tài Khoản Của Tôi",
+    "description": "Quản lý thông tin cá nhân và cài đặt tài khoản của bạn",
+    "loading": "Đang tải thông tin cá nhân...",
+    "fields": {
+      "fullName": "Họ và Tên",
+      "email": "Địa chỉ Email",
+      "phone": "Số Điện Thoại",
+      "dateOfBirth": "Ngày Sinh",
+      "gender": "Giới Tính",
+      "address": "Địa Chỉ",
+      "city": "Thành Phố Hiện Tại",
+      "hometown": "Quê Quán",
+      "country": "Quốc Gia",
+      "medicalNotes": "Ghi Chú Y Tế",
+      "notProvided": "Chưa cung cấp",
+      "selectGender": "Chọn giới tính",
+      "male": "Nam",
+      "female": "Nữ"
+    },
+    "buttons": {
+      "edit": "Chỉnh Sửa Thông Tin",
+      "save": "Lưu Thay Đổi",
+      "cancel": "Hủy",
+      "saving": "Đang lưu..."
+    },
+    "errors": {
+      "userIdNotFound": "Không tìm thấy ID người dùng",
+      "fetchFailed": "Không thể tải thông tin người dùng",
+      "saveFailed": "Không thể lưu thông tin cá nhân"
+    },
+    "messages": {
+      "updateSuccess": "Cập nhật thông tin cá nhân thành công!"
+    }
+  },
+  "emergencyContacts": {
+    "title": "Liên Hệ Khẩn Cấp",
+    "description": "Quản lý các liên hệ khẩn cấp và người chăm sóc của bạn",
+    "addContact": "Thêm Liên Hệ",
+    "noContacts": {
+      "title": "Không Có Liên Hệ Khẩn Cấp",
+      "subtitle": "Thêm các liên hệ khẩn cấp để giữ những người quan trọng trong tầm tay",
+      "addButton": "Thêm Liên Hệ"
+    },
+    "actions": {
+      "call": "Gọi",
+      "email": "Gửi Email",
+      "edit": "Sửa",
+      "delete": "Xóa"
+    },
+    "errors": {
+      "fetchFailed": "Không thể tải danh bạ khẩn cấp"
+    },
+    "loading": "Đang tải danh bạ..."
+  }
+}

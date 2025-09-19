@@ -1,0 +1,211 @@
+{
+  "title": "Living Memories",
+  "description": "Create AI avatars with your loved one's voice and preserve precious memories",
+  "tabs": {
+    "overview": "Overview",
+    "memoryGallery": "Memory Gallery"
+  },
+  "createNew": {
+    "title": "Create New Living Memory",
+    "description": "Transform photos and voices into interactive memories that relive and preserve precious moments",
+    "startButton": "Start Creating"
+  },
+  "features": {
+    "uploadPhotos": {
+      "title": "Upload Photos",
+      "description": "Upload clear photos of your loved one"
+    },
+    "recordVoice": {
+      "title": "Record Voice",
+      "description": "Capture their unique voice and speech patterns"
+    },
+    "generateVideo": {
+      "title": "Generate Video",
+      "description": "AI creates a talking avatar with their voice"
+    }
+  },
+  "createPage": {
+    "title": "Create Living Memory",
+    "description": "Transform photos and voices into interactive memories that bring your loved ones back to life"
+  },
+  "navigation": {
+    "back": "Back",
+    "viewGallery": "View Gallery"
+  },
+  "modal": {
+    "title": "Video Generation in Progress!",
+    "description": "Your video is being processed in the background. Due to high processing demands, it may take longer than usual (5-15 minutes). Your video will appear in your history once it's ready. What would you like to do?",
+    "buttons": {
+      "checkHistoryLater": "Check History Later",
+      "stayOnPage": "Stay on This Page"
+    }
+  },
+  "step1": {
+    "title": "Setup Character",
+    "description": "Upload a photo and record voice sample to create your AI memory avatar",
+    "sampleText": "Hello, I'm creating my AI clone today. This voice sample will help generate realistic speech. I'm speaking clearly and naturally to ensure the best quality output. The weather is nice today, and I'm excited about this new technology that can preserve my voice for future use.",
+    "photo": {
+      "title": "Character Photo",
+      "description": "Upload a clear photo of yourself to create your AI avatar",
+      "uploadArea": {
+        "title": "Upload Photo",
+        "subtitle": "Choose a clear photo of yourself",
+        "browseButton": "Browse Files",
+        "dropText": "or drop file here",
+        "supportedFormats": "Supported formats: JPG, PNG, WEBP (Max 10MB)",
+        "dragDrop": "Drag and drop your photo here",
+        "tip": "Use a high-quality, well-lit photo for best results"
+      }
+    },
+    "voice": {
+      "title": "Voice Sample",
+      "description": "Record or upload a voice sample to preserve your voice",
+      "tabs": {
+        "record": "Record Audio",
+        "upload": "Upload Audio"
+      },
+      "recording": {
+        "instruction": "Click the record button and speak for at least 30 seconds. Read the sample text below for best results:",
+        "instructions": "Click the record button and speak for at least 30 seconds. Read the sample text below for best results:",
+        "sampleText": "Hello, I'm creating my AI clone today. This voice sample will help generate realistic speech. I'm speaking clearly and naturally to ensure the best quality output. The weather is nice today, and I'm excited about this new technology that can preserve my voice for future use.",
+        "startButton": "Start Recording",
+        "stopButton": "Stop Recording",
+        "currentLength": "Current length:",
+        "minimumLength": "Minimum 30 seconds required"
+      },
+      "upload": {
+        "title": "Upload Audio File",
+        "description": "Choose an audio file from your device",
+        "uploadArea": {
+          "title": "Upload Audio File",
+          "subtitle": "Choose an audio file",
+          "browseButton": "Browse Files", 
+          "dropText": "or drop file here",
+          "supportedFormats": "Supported formats: MP3, WAV, M4A (Max 25MB)"
+        }
+      },
+      "transcription": {
+        "label": "What does the audio say? (Transcription)",
+        "placeholder": "Type the transcription of your audio here...",
+        "tip": "Tip: Copy the sample text above for accuracy"
+      }
+    },
+    "nextButton": "Next: Create Script →"
+  },
+  "step2": {
+    "title": "Create the Script",
+    "description": "Choose how you want to create the content for your character",
+    "modes": {
+      "manual": {
+        "title": "Write the Exact Text",
+        "description": "Type the full message you want the character to speak. Perfect for personal messages or retelling a specific story.",
+        "feature": "Full control over content"
+      },
+      "aiGenerated": {
+        "title": "Generate Content with AI",
+        "description": "Just provide a topic and a few keywords, and our AI will help you write a warm, natural script.",
+        "feature": "AI-powered content generation"
+      }
+    },
+    "manual": {
+      "title": "Write Your Script",
+      "placeholder": "Hello, I remember when we went to the beach together in 1995. It was such a beautiful summer day, and the whole family was there...",
+      "tip": "Write naturally, as if speaking to a loved one",
+      "characterCount": "{{count}} characters"
+    },
+    "aiGenerated": {
+      "title": "AI Content Generation",
+      "topic": {
+        "label": "Topic",
+        "placeholder": "e.g., Family Vacation, Wedding Day, Words of Encouragement"
+      },
+      "keywords": {
+        "label": "Keywords (optional)",
+        "placeholder": "e.g., Vung Tau, 1995, fun, the whole family",
+        "help": "Separate keywords with commas"
+      },
+      "description": {
+        "label": "Description (optional)",
+        "placeholder": "e.g., Tell a happy story about a family beach trip, in a warm and joyful tone.",
+        "help": "Describe the tone and style you want"
+      }
+    },
+    "backButton": "← Back",
+    "nextButton": "Next: Preview & Generate →"
+  },
+  "step3": {
+    "titles": {
+      "generating": "Generating Your Living Memory",
+      "preview": "Preview Your Living Memory"
+    },
+    "descriptions": {
+      "generating": "AI is creating your personalized character video",
+      "preview": "Review and finalize your AI character"
+    },
+    "characterPreview": {
+      "title": "Character Preview",
+      "imageAlt": "Character",
+      "noImage": "No character image available"
+    },
+    "video": {
+      "notSupported": "Your browser does not support the video tag."
+    },
+    "generating": {
+      "title": "AI is generating your video...",
+      "subtitle": "This may take a few minutes"
+    },
+    "aiMode": {
+      "autoGenerate": "Video will auto-generate"
+    },
+    "characterInfo": {
+      "image": "Image",
+      "voice": "Voice"
+    },
+    "script": {
+      "title": "Script",
+      "aiGenerated": "AI Generated",
+      "placeholders": {
+        "generating": "AI is generating your script...",
+        "manual": "Your script will appear here..."
+      },
+      "tips": {
+        "manual": "You can edit the script before generating",
+        "aiGenerated": "AI generated script (editable)"
+      },
+      "characterCount": "{{count}} characters"
+    },
+    "aiGeneration": {
+      "title": "AI Script Generation",
+      "inProgress": "In Progress",
+      "generating": "Generating script from your topic...",
+      "topic": "Topic",
+      "keywords": "Keywords"
+    },
+    "buttons": {
+      "editScript": "← Edit Script",
+      "generateVideo": "Generate Video",
+      "aiGenerating": "AI Generating Video...",
+      "saveMemory": "Save Memory"
+    },
+    "generatingStatus": {
+      "message": "Generating your AI character video. This process may take several minutes depending on the script length."
+    },
+    "errors": {
+      "missingData": "Missing required character data. Please go back and complete all steps.",
+      "notAuthenticated": "User not authenticated. Please log in again.",
+      "generationFailed": "Failed to generate video. Please try again.",
+      "generalError": "An error occurred while generating the video. Please try again."
+    },
+    "success": {
+      "generationStarted": "Video generation started successfully! It will appear in your history once ready.",
+      "memorySaved": "Memory saved successfully!"
+    }
+  },
+  "wizard": {
+    "steps": {
+      "character": "Character",
+      "script": "Script",
+      "preview": "Preview"
+    }
+  }
+}

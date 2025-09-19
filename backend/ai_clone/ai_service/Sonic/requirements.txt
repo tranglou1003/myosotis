@@ -1,0 +1,13 @@
+
+diffusers
+transformers
+imageio
+imageio-ffmpeg
+gradio
+omegaconf
+tqdm
+librosa
+einops
+numpy
+accelerate
+opencv-python

@@ -1,0 +1,1 @@
+docker exec seadev_backup_ai_worker conda run -n Sonic_2 pip install onnxruntime-gpu

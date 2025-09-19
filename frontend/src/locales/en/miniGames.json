@@ -1,0 +1,131 @@
+{
+  "title": "Mini Games",
+  "description": "Choose a game to exercise your mind and improve cognitive function",
+  "games": {
+    "sudoku": {
+      "title": "Sudoku",
+      "description": "Exercise your logical thinking with number puzzles",
+      "playButton": "Play Sudoku"
+    },
+    "pictureRecall": {
+      "title": "Picture Recall",
+      "description": "Test your memory by recalling sequences of images",
+      "playButton": "Play Picture Recall"
+    }
+  },
+  "benefits": {
+    "title": "Why Play Brain Games?",
+    "description": "Regular mental exercises can help maintain cognitive function, improve memory, and provide enjoyable challenges that keep your mind sharp and engaged."
+  },
+  "pages": {
+    "sudoku": {
+      "title": "Sudoku",
+      "description": "Exercise your logical thinking with number puzzles"
+    },
+    "pictureRecall": {
+      "title": "Picture Recall",
+      "description": "Test your memory by finding matching pairs of images"
+    }
+  },
+  "sudoku": {
+    "difficulties": {
+      "easy": {
+        "label": "Easy",
+        "description": "Perfect for beginners"
+      },
+      "medium": {
+        "label": "Medium",
+        "description": "A moderate challenge"
+      },
+      "hard": {
+        "label": "Hard",
+        "description": "For experienced players"
+      },
+      "expert": {
+        "label": "Expert",
+        "description": "The ultimate challenge"
+      }
+    },
+    "gameInfo": {
+      "difficulty": "Difficulty:",
+      "time": "Time:",
+      "checkErrors": "⚠️ Check for errors"
+    },
+    "completion": {
+      "title": "🎉 Congratulations!",
+      "message": "You completed the puzzle in {{time}}!"
+    },
+    "controls": {
+      "title": "Controls",
+      "newGame": "New Game",
+      "clearCell": "Clear Cell",
+      "getHint": "Get Hint ({{remaining}} left)",
+      "resetGame": "Reset Game"
+    },
+    "statistics": {
+      "title": "Statistics",
+      "gamesPlayed": "Games Played:",
+      "gamesCompleted": "Games Completed:",
+      "bestTime": "Best Time:",
+      "averageTime": "Average Time:",
+      "currentStreak": "Current Streak:",
+      "bestStreak": "Best Streak:"
+    }
+  },
+  "pictureRecall": {
+    "difficulties": {
+      "3": {
+        "label": "3 Pairs",
+        "description": "Easy - 6 cards"
+      },
+      "4": {
+        "label": "4 Pairs", 
+        "description": "Medium - 8 cards"
+      },
+      "5": {
+        "label": "5 Pairs",
+        "description": "Hard - 10 cards"
+      }
+    },
+    "gameModes": {
+      "flags": {
+        "label": "Flags",
+        "description": "Country flags"
+      },
+      "things": {
+        "label": "Objects",
+        "description": "Everyday items"
+      }
+    },
+    "gameInfo": {
+      "moves": "Moves",
+      "pairs": "Pairs",
+      "time": "Time",
+      "preview": "Preview"
+    },
+    "preview": {
+      "message": "Memorize the positions! Game starts in {{time}} seconds..."
+    },
+    "completion": {
+      "title": "Congratulations!",
+      "message": "You completed the puzzle in {{moves}} moves and {{time}}!"
+    },
+    "controls": {
+      "title": "New Game",
+      "difficulty": "Difficulty",
+      "theme": "Theme",
+      "resetGame": "Reset Current Game"
+    },
+    "statistics": {
+      "title": "Statistics",
+      "gamesPlayed": "Games Played:",
+      "gamesCompleted": "Games Completed:",
+      "bestMoves": "Best Moves:",
+      "bestTime": "Best Time:",
+      "clearStats": "Clear Statistics"
+    },
+    "accessibility": {
+      "cardAlt": "Memory card"
+    }
+  }
+}

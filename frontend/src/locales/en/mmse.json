@@ -1,0 +1,125 @@
+{
+  "historyPage": {
+    "title": "MMSE Score Progression",
+    "subtitle": "Track your cognitive assessment scores over time",
+    "trendAnalysis": {
+      "title": "Score Trend Analysis",
+      "subtitle": "Track your cognitive assessment scores over time"
+    },
+    "domainAnalysis": {
+      "title": "Latest Test Domain Analysis",
+      "subtitle": "Performance breakdown across different cognitive domains"
+    },
+    "severityBands": {
+      "noCognitive": "No cognitive impairment",
+      "mildCognitive": "Mild cognitive impairment",
+      "moderateCognitive": "Moderate cognitive impairment",
+      "severeCognitive": "Severe cognitive impairment"
+    },
+    "tooltip": {
+      "testNumber": "Test #{{number}}",
+      "date": "Date: {{date}}",
+      "score": "Score: {{score}}/{{maxScore}}",
+      "percentage": "Percentage: {{percentage}}%",
+      "change": "Change: {{change}} points",
+      "latestTest": "Latest Test",
+      "scoreLabel": "Score: {{percentage}}%"
+    },
+    "chart": {
+      "yAxisLabel": "MMSE Score",
+      "higherScoresBetter": "• Higher scores indicate better cognitive function",
+      "severityThresholds": "• Dotted lines represent severity thresholds for cognitive impairment",
+      "cognitiveDomainsAxis": "• Each axis represents a cognitive domain from the MMSE test",
+      "percentagesShow": "• Percentages show correct answers within each domain",
+      "higherValuesBetter": "• Higher values indicate better performance in that domain"
+    },
+    "noHistory": {
+      "title": "No Test History",
+      "subtitle": "Take your first MMSE test to start tracking your cognitive health",
+      "takeFirstTest": "Take Your First Test"
+    },
+    "loading": "Loading test history..."
+  },
+  "testContent": {
+    "title": "MMSE Test",
+    "subtitle": "Mini-Mental State Examination",
+    "loading": "Loading MMSE Test...",
+    "failedToLoad": "Failed to load test data",
+    "backToDashboard": "Back to Dashboard",
+    "progress": "Progress",
+    "complete": "Complete",
+    "question": "Question {{current}} of {{total}}",
+    "navigation": {
+      "previous": "Previous",
+      "next": "Next",
+      "submit": "Submit Test",
+      "submitting": "Submitting..."
+    },
+    "placeholders": {
+      "enterAnswer": "Enter your answer...",
+      "selectOption": "Select an option..."
+    },
+    "audioNotSupported": "Your browser does not support the audio element.",
+    "results": {
+      "title": "Test Results",
+      "subtitle": "Your MMSE assessment has been completed",
+      "congratulations": "🎉 Test Completed!",
+      "testCompletedSuccessfully": "Test Completed Successfully!",
+      "thankYou": "Thank you for completing the MMSE assessment.",
+      "score": "Your Score",
+      "totalScore": "Total Score",
+      "outOf": "out of",
+      "percentage": "{{percentage}}%",
+      "completedOn": "Completed on {{date}}",
+      "interpretation": "Interpretation",
+      "recommendations": "Recommendations",
+      "nextSteps": "Next Steps",
+      "actions": {
+        "viewHistory": "View Test History",
+        "retakeTest": "Take Another Test",
+        "backToDashboard": "Back to Dashboard"
+      },
+      "summary": {
+        "title": "Test Summary",
+        "totalQuestions": "Total Questions",
+        "correctAnswers": "Correct Answers",
+        "timeSpent": "Time Spent",
+        "accuracy": "Accuracy"
+      },
+      "details": {
+        "scorePercentage": "Score Percentage",
+        "assessmentResult": "Assessment Result",
+        "testDetails": "Test Details",
+        "assessmentId": "Assessment ID",
+        "questionsAnswered": "Questions Answered",
+        "maximumPossibleScore": "Maximum Possible Score",
+        "dataStatus": "Data Status",
+        "successfullySaved": "Successfully Saved",
+        "notSaved": "Not Saved",
+        "yourPerformance": "Your performance on this assessment",
+        "basedOnResponses": "Based on your responses",
+        "scoreRange": "Score Range:",
+        "questions": "questions",
+        "points": "points"
+      },
+      "buttons": {
+        "viewTestHistory": "View Test History",
+        "returnToDashboard": "Return to Dashboard",
+        "takeTestAgain": "Take Test Again"
+      }
+    }
+  },
+  "simpleChart": {
+    "title": "Recent Progress",
+    "subtitle": "Your latest cognitive assessment trends",
+    "viewFullChart": "View Full Chart",
+    "latestScore": "Latest Score:",
+    "noData": "No test data available",
+    "takeFirstTest": "Take your first MMSE test to see progress",
+    "trends": {
+      "improving": "Improving",
+      "declining": "Declining",
+      "stable": "Stable"
+    }
+  }
+}

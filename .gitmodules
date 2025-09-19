@@ -1,0 +1,9 @@
+[submodule "backend/service"]
+	path = backend/service
+	url = https://github.com/MinhQuang0611/seadev_backend.git
+[submodule "backend/ai_clone"]
+	path = backend/ai_clone
+	url = https://github.com/nguyenchiminhhieu/AI-Human-Clone.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/VietDSK6/myosotis.git

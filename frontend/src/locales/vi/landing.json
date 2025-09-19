@@ -1,0 +1,116 @@
+{
+  "hero": {
+    "title": "Chăm Sóc Toàn Diện, Gìn Giữ <highlight>Ký Ức</highlight> cho Người Thân Yêu",
+    "subtitle": "Myosotis là người bạn đồng hành kỹ thuật số cho bệnh nhân Alzheimer và gia đình, mang lại sự an tâm và kết nối.",
+    "cta": "Trải Nghiệm Bản Demo"
+  },
+  "overview": {
+    "title": "Giải Pháp Chăm Sóc Kỹ Thuật Số Toàn Diện cho Gia Đình Alzheimer",
+    "subtitle": "Myosotis không chỉ là một ứng dụng—đó là một hệ sinh thái hoàn chỉnh được thiết kế để hỗ trợ cả bệnh nhân và gia đình trong suốt hành trình đối mặt với Alzheimer. Nền tảng của chúng tôi kết hợp công nghệ AI tiên tiến với các tính năng chăm sóc tận tâm để gìn giữ ký ức, duy trì kết nối và mang lại sự an tâm.",
+    "forPatients": {
+      "title": "Dành Cho Bệnh Nhân",
+      "description": "Các bài tập trí nhớ tương tác, bạn đồng hành AI, và các bài đánh giá nhận thức để duy trì sự minh mẫn và theo dõi tiến trình."
+    },
+    "forFamilies": {
+      "title": "Dành Cho Gia Đình",
+      "description": "Sổ tay ký ức chung, quản lý liên hệ khẩn cấp, và theo dõi tiến trình theo thời gian thực để luôn kết nối và cập nhật thông tin."
+    },
+    "forCaregivers": {
+      "title": "Dành Cho Người Chăm Sóc",
+      "description": "Hệ thống phản ứng khẩn cấp, hướng dẫn cho người chăm sóc, và hỗ trợ AI 24/7 để đảm bảo sự chăm sóc toàn diện và an toàn."
+    }
+  },
+  "features": {
+    "title": "Sản Phẩm Của Chúng Tôi",
+    "subtitle": "Trải nghiệm các tính năng cốt lõi được thiết kế để tạo ra sự khác biệt thực sự trong việc chăm sóc bệnh Alzheimer. Mỗi tính năng đều được xây dựng cẩn thận dựa trên nhu cầu thực tế của các gia đình và kiến thức chuyên môn lâm sàng.",
+    "aiMemories": {
+      "label": "Ký Ức Sống Động AI",
+      "title": "Gìn Giữ Hình Ảnh Người Thân Yêu",
+      "description": "Biến những bức ảnh và bản ghi âm giọng nói quý giá thành các avatar AI tương tác. Chỉ với một bức ảnh và một mẫu giọng nói ngắn, bạn có thể tạo ra những ký ức biết nói sống động như thật, có thể kể chuyện, chia sẻ kinh nghiệm sống hoặc mang lại sự an ủi—gìn giữ trọn vẹn hình ảnh của người thân yêu mãi mãi.",
+      "features": {
+        "voiceSynthesis": "Công nghệ tổng hợp giọng nói bằng mạng thần kinh sâu",
+        "lipSync": "Đồng bộ môi và biểu cảm khuôn mặt tự nhiên",
+        "customContent": "Kịch bản tùy chỉnh hoặc nội dung do AI tạo ra"
+      }
+    },
+    "aiCompanion": {
+      "label": "Bạn Đồng Hành Chăm Sóc AI",
+      "title": "Người Bạn Đồng Hành Tận Tâm 24/7",
+      "description": "Một người bạn đồng hành thông minh, luôn sẵn sàng, thấu hiểu và phản hồi một cách đồng cảm. Được hỗ trợ bởi SEA-LION AI cho các cuộc trò chuyện phù hợp văn hóa bằng ngôn ngữ địa phương, mang lại sự an ủi, hướng dẫn và trò chuyện thân thiện bất cứ khi nào cần.",
+      "features": {
+        "seaLion": "SEA-LION AI hỗ trợ ngôn ngữ địa phương",
+        "contextualMemory": "Bộ nhớ theo ngữ cảnh cho cuộc trò chuyện tự nhiên",
+        "personalizedResponses": "Phản hồi được cá nhân hóa dựa trên hồ sơ người dùng"
+      },
+      "chatExample": {
+        "greeting": "Chào buổi sáng! Hôm nay bạn cảm thấy thế nào?",
+        "userResponse": "Tôi hơi bối rối về lịch uống thuốc của mình.",
+        "aiResponse": "Tôi hiểu. Để tôi giúp bạn nhé. Thuốc buổi sáng của bạn nên được uống cùng với bữa sáng..."
+      }
+    },
+    "memoryBook": {
+      "label": "Sổ Tay Ký Ức Kỹ Thuật Số",
+      "title": "Cuốn Sổ Lưu Bút Gia Đình",
+      "description": "Xây dựng một dòng thời gian tương tác phong phú, nơi các gia đình cùng nhau gìn giữ kỷ niệm. Thêm ảnh, viết truyện và đánh dấu các sự kiện quan trọng trong một không gian số đẹp mắt, an toàn để giữ cho những ký ức quý giá sống mãi qua nhiều thế hệ.",
+      "features": {
+        "collaborative": "Cùng nhau kể chuyện cho cả gia đình",
+        "timeline": "Dòng thời gian tương tác với hình ảnh và sự kiện",
+        "secure": "Không gian gia đình riêng tư, an toàn"
+      }
+    },
+    "cognitiveAssessment": {
+      "label": "Đánh Giá Nhận Thức",
+      "title": "Theo Dõi Sức Khỏe Tinh Thần",
+      "description": "Các bài đánh giá nhận thức nhẹ nhàng, thường xuyên giúp theo dõi tiến trình và cung cấp thông tin giá trị cho các nhà cung cấp dịch vụ chăm sóc sức khỏe. Các bài kiểm tra MMSE kỹ thuật số của chúng tôi được thiết kế để hấp dẫn, không gây căng thẳng mà vẫn mang lại kết quả đo lường chính xác.",
+      "features": {
+        "mmse": "Bài kiểm tra nhận thức MMSE tiêu chuẩn hóa",
+        "tracking": "Theo dõi tiến trình và dữ liệu lịch sử",
+        "familyFriendly": "Kết quả dễ hiểu cho gia đình"
+      }
+    },
+    "memoryMap": {
+      "label": "Bản Đồ Ký Ức",
+      "title": "Hành Trình Ký Ức Theo Địa Điểm",
+      "description": "Khám phá những nơi có ý nghĩa và tạo ra những ký ức dựa trên vị trí với tính năng bản đồ tương tác của chúng tôi. Điều hướng qua các địa điểm quen thuộc, thêm ghi chú kỷ niệm và lưu giữ những câu chuyện đằng sau những nơi đặc biệt có ý nghĩa trong hành trình cuộc đời bạn.",
+      "features": {
+        "googleMaps": "Tích hợp Google Maps tương tác",
+        "locationNotes": "Ghi chú và câu chuyện ký ức theo vị trí",
+        "streetView": "Tính năng xem phố và điều hướng"
+      }
+    },
+    "miniGames": {
+      "label": "Trò Chơi Nhỏ",
+      "title": "Trò Chơi Rèn Luyện Trí Não Hấp Dẫn",
+      "description": "Rèn luyện trí não của bạn với các trò chơi nhận thức vui nhộn và đầy thử thách được thiết kế để cải thiện trí nhớ, sự chú ý và kỹ năng giải quyết vấn đề. Bộ sưu tập của chúng tôi bao gồm các câu đố Sudoku và trò chơi ghi nhớ hình ảnh có thể thích ứng với trình độ của bạn.",
+      "features": {
+        "sudoku": "Câu đố Sudoku với nhiều cấp độ khó",
+        "pictureRecall": "Trò chơi rèn luyện trí nhớ bằng hình ảnh",
+        "progressTracking": "Theo dõi tiến trình và phân tích hiệu suất"
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Cách Hoạt Động",
+    "subtitle": "Bắt đầu với Myosotis rất đơn giản và dễ dàng",
+    "steps": {
+      "createProfile": {
+        "title": "Tạo Hồ Sơ",
+        "description": "Thiết lập hồ sơ và danh bạ của người thân chỉ trong vài phút. An toàn và riêng tư theo thiết kế."
+      },
+      "buildPractice": {
+        "title": "Xây Dựng & Luyện Tập",
+        "description": "Cùng nhau thêm ký ức và hoàn thành các bài tập rèn luyện trí não. Biến nó thành một trải nghiệm gắn kết."
+      },
+      "connectTrack": {
+        "title": "Kết Nối & Theo Dõi",
+        "description": "Gia đình kết nối qua những câu chuyện và theo dõi tiến trình sức khỏe nhận thức. Luôn cập nhật và tham gia."
+      }
+    }
+  },
+  "cta": {
+    "title": "Sẵn Sàng Trải Nghiệm Myosotis?",
+    "subtitle": "Hãy tham gia cùng các gia đình đang tạo ra những kết nối ý nghĩa và gìn giữ những ký ức quý giá. Bắt đầu hành trình của bạn ngay hôm nay với nền tảng chăm sóc toàn diện của chúng tôi.",
+    "primaryButton": "Trải Nghiệm Bản Demo Ngay",
+    "secondaryButton": "Tìm Hiểu Thêm"
+  }
+}

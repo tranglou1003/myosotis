@@ -1,0 +1,23 @@
+{
+  "title": "Memory Films",
+  "description": "View and manage your cherished life memories",
+  "addMemory": "Add Memory",
+  "manage": "Manage ({{count}})",
+  "manageMemories": "Manage Memories",
+  "editMemory": "Edit Memory",
+  "delete": "Delete",
+  "loading": "Loading your memories...",
+  "timelineLoading": "Loading timeline...",
+  "confirmDelete": "Are you sure you want to delete this memory?",
+  "emptyState": {
+    "title": "📖 No memories yet",
+    "description": "Start building your personal timeline by adding your first precious life memory. Every story matters and helps preserve your journey. 💙",
+    "addFirstMemory": "✨ Add Your First Memory"
+  },
+  "errors": {
+    "loadFailed": "Failed to load your memories. Please try again.",
+    "createFailed": "Failed to create memory. Please try again.",
+    "updateFailed": "Failed to update memory. Please try again.",
+    "deleteFailed": "Failed to delete memory. Please try again."
+  }
+}

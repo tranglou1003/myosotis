@@ -1,0 +1,190 @@
+{
+  "title": "Frequently Asked Questions",
+  "description": "Find answers to common questions about using Myosotis for Alzheimer's care.",
+  "searchPlaceholder": "Search questions...",
+  "noResults": {
+    "title": "No results found",
+    "description": "Try searching with different keywords or browse all categories above."
+  },
+  "contactSupport": {
+    "title": "Still need help?",
+    "description": "Can't find the answer you're looking for? Our support team is here to help.",
+    "button": "Contact Support"
+  },
+  "categories": {
+    "memoryAssessment": {
+      "title": "Memory Assessment & MMSE Test",
+      "questions": [
+        {
+          "question": "What is the MMSE test used for?",
+          "answer": "It helps assess memory, language, and thinking abilities – useful for tracking Alzheimer's progression."
+        },
+        {
+          "question": "How often should the MMSE test be taken?",
+          "answer": "Every 1–3 months is recommended. Our system will remind you automatically."
+        },
+        {
+          "question": "What does it mean if MMSE score decreases?",
+          "answer": "A lower score might indicate memory changes. Don't panic – use this as a guide to adjust care routines."
+        }
+      ]
+    },
+    "nutritionSleep": {
+      "title": "Nutrition & Sleep",
+      "questions": [
+        {
+          "question": "My loved one often forgets to eat. What should I do?",
+          "answer": "You can set voice reminders using familiar voices in the app. Offer simple, familiar meals."
+        },
+        {
+          "question": "Is it normal if the patient can't sleep well at night?",
+          "answer": "Sleep disturbances are common. Try using the \"Sundowning Soother\" feature to help them relax before bed."
+        }
+      ]
+    },
+    "communicationPatient": {
+      "title": "Communication with the Patient",
+      "questions": [
+        {
+          "question": "What if the patient doesn't recognize me?",
+          "answer": "Stay calm and gently introduce yourself. Show photos or play familiar voices to help spark recognition."
+        },
+        {
+          "question": "The patient keeps repeating things. Should I correct them?",
+          "answer": "No need to correct. Just listen patiently. Repetition helps them stay connected to their thoughts."
+        }
+      ]
+    },
+    "emergencyDifficult": {
+      "title": "Emergency & Difficult Situations",
+      "questions": [
+        {
+          "question": "The patient wants to \"go home\" even though they're already home. What should I do?",
+          "answer": "Don't argue. Reassure them kindly. Try showing familiar photos or play a comforting video from \"Memory Films.\""
+        },
+        {
+          "question": "What if the patient leaves the house alone?",
+          "answer": "Activate \"Wandering Detection\" to get early alerts. You can also save familiar locations on the \"Memory Map.\""
+        }
+      ]
+    },
+    "memoryCognitive": {
+      "title": "Memory & Cognitive Function",
+      "questions": [
+        {
+          "question": "What is Alzheimer's disease and how does it affect memory?",
+          "answer": "Alzheimer's is a progressive condition that affects memory, thinking, and behavior. It may start with forgetfulness and gradually affect daily life."
+        },
+        {
+          "question": "Is memory loss always a sign of Alzheimer's?",
+          "answer": "Not always. Some forgetfulness is normal with age. A medical diagnosis is needed to confirm Alzheimer's."
+        },
+        {
+          "question": "How can I help maintain their memory?",
+          "answer": "Encourage mental activities, show familiar photos, use memory games, and maintain routines."
+        },
+        {
+          "question": "Should I correct them if they remember something wrong?",
+          "answer": "Gently redirect the conversation if needed, but avoid arguments. Emotional comfort is more important than factual correction."
+        }
+      ]
+    },
+    "dailyCare": {
+      "title": "Daily Care & Routines",
+      "questions": [
+        {
+          "question": "How do I create a daily routine for someone with Alzheimer's?",
+          "answer": "Keep it simple and consistent. Use visual cues and reminders, and allow extra time for each task."
+        },
+        {
+          "question": "What can I do when they refuse to take a shower or change clothes?",
+          "answer": "Try again later with a calm tone. Offer choices and make the environment warm, safe, and private."
+        },
+        {
+          "question": "How do I manage their hygiene if they resist?",
+          "answer": "Use gentle encouragement and positive reinforcement. Familiar voices and routines help."
+        },
+        {
+          "question": "Can they live alone in the early stages?",
+          "answer": "Some can, with support and monitoring. However, safety risks increase over time."
+        }
+      ]
+    },
+    "communicationSupport": {
+      "title": "Communication & Emotional Support",
+      "questions": [
+        {
+          "question": "How can I talk to someone with Alzheimer's without confusing them?",
+          "answer": "Use short, clear sentences. Speak slowly, and make eye contact. Avoid background noise."
+        },
+        {
+          "question": "What if they get angry or aggressive?",
+          "answer": "Stay calm. Don't argue. Step away if needed and return with a reassuring tone."
+        },
+        {
+          "question": "They keep asking the same question — what should I do?",
+          "answer": "Answer calmly or redirect their attention. Repetition is a symptom, not intentional behavior."
+        },
+        {
+          "question": "Can playing their favorite music help?",
+          "answer": "Yes! Music from their past can spark memories and reduce anxiety."
+        }
+      ]
+    },
+    "safetyEmergency": {
+      "title": "Safety & Emergency Situations",
+      "questions": [
+        {
+          "question": "How do I prevent them from wandering?",
+          "answer": "Set up home safety measures, and use features like \"Wandering Detection\" for alerts."
+        },
+        {
+          "question": "What should I do if they go missing?",
+          "answer": "Call emergency services immediately. Share a recent photo and medical info."
+        },
+        {
+          "question": "How do I know if it's safe for them to cook or use appliances?",
+          "answer": "Supervise cooking. In later stages, it's safer to disable stoves or switch to simpler meals."
+        },
+        {
+          "question": "They talk to someone who passed away. Is this okay?",
+          "answer": "It's not uncommon. Instead of correcting them, offer comfort and support."
+        }
+      ]
+    },
+    "familySupport": {
+      "title": "Relationships & Family Support",
+      "questions": [
+        {
+          "question": "How do I explain Alzheimer's to children or other family members?",
+          "answer": "Be honest but gentle. Explain that memory problems are part of an illness, not intentional."
+        },
+        {
+          "question": "I'm feeling overwhelmed — is that normal?",
+          "answer": "Completely. Caregiving is emotionally demanding. Seek support groups or speak to a counselor if needed."
+        },
+        {
+          "question": "Can I still take breaks without feeling guilty?",
+          "answer": "Yes. Self-care is essential to long-term caregiving. Use respite care or share duties if possible."
+        },
+        {
+          "question": "How do I involve other family members in caregiving?",
+          "answer": "Communicate clearly. Assign small tasks and use shared tools (like this app!) to coordinate."
+        }
+      ]
+    },
+    "appRelated": {
+      "title": "App-Related Questions",
+      "questions": [
+        {
+          "question": "Can I add more family members or caregivers to help?",
+          "answer": "Yes, you can invite others under the \"Emergency Contacts\" or \"Care Team\" section."
+        },
+        {
+          "question": "I'm not tech-savvy. Is there a simpler version?",
+          "answer": "We're working on a \"Simple Mode\" designed especially for older caregivers. You can try enabling it in settings."
+        }
+      ]
+    }
+  }
+}

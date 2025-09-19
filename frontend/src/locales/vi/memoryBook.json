@@ -1,0 +1,23 @@
+{
+  "title": "Thước Phim Ký Ức",
+  "description": "Xem và quản lý những ký ức cuộc đời yêu dấu của bạn",
+  "addMemory": "Thêm Ký Ức",
+  "manage": "Quản Lý ({{count}})",
+  "manageMemories": "Quản Lý Ký Ức",
+  "editMemory": "Chỉnh Sửa Ký Ức",
+  "delete": "Xóa",
+  "loading": "Đang tải ký ức của bạn...",
+  "timelineLoading": "Đang tải dòng thời gian...",
+  "confirmDelete": "Bạn có chắc chắn muốn xóa ký ức này không?",
+  "emptyState": {
+    "title": "📖 Chưa có ký ức nào",
+    "description": "Hãy bắt đầu xây dựng dòng thời gian cá nhân của bạn bằng cách thêm vào ký ức cuộc đời quý giá đầu tiên. Mỗi câu chuyện đều quan trọng và giúp lưu giữ lại hành trình của bạn. 💙",
+    "addFirstMemory": "✨ Thêm Ký Ức Đầu Tiên Của Bạn"
+  },
+  "errors": {
+    "loadFailed": "Không thể tải ký ức của bạn. Vui lòng thử lại.",
+    "createFailed": "Tạo ký ức thất bại. Vui lòng thử lại.",
+    "updateFailed": "Cập nhật ký ức thất bại. Vui lòng thử lại.",
+    "deleteFailed": "Xóa ký ức thất bại. Vui lòng thử lại."
+  }
+}

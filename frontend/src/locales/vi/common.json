@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "signIn": "Đăng Nhập",
+    "getStarted": "Bắt Đầu",
+    "register": "Đăng Ký",
+    "login": "Đăng Nhập",
+    "learnMore": "Tìm Hiểu Thêm",
+    "experienceDemo": "Trải Nghiệm Bản Demo"
+  },
+  "navigation": {
+    "features": "Tính Năng",
+    "signIn": "Đăng Nhập",
+    "register": "Đăng Ký"
+  },
+  "common": {
+    "myosotis": "Myosotis",
+    "copyright": "© 2025 Myosotis. Gìn giữ ký ức, hỗ trợ gia đình."
+  }
+}

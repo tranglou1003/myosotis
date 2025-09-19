@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  frontend:
+    build: .
+    container_name: fe_app
+    ports:
+      - "5173:5173" # ánh xạ port 3000 của container ra host
+    volumes:
+      - .:/app # mount code để live reload khi dev
+      - /app/node_modules # tránh ghi đè node_modules
+    environment:
+      - NODE_ENV=development
+    command: npm run dev

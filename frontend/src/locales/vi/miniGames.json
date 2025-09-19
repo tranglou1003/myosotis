@@ -1,0 +1,131 @@
+{
+  "title": "Trò Chơi Nhỏ",
+  "description": "Chọn một trò chơi để rèn luyện trí não và cải thiện chức năng nhận thức",
+  "games": {
+    "sudoku": {
+      "title": "Sudoku",
+      "description": "Rèn luyện tư duy logic của bạn với các câu đố số",
+      "playButton": "Chơi Sudoku"
+    },
+    "pictureRecall": {
+      "title": "Ghi Nhớ Hình Ảnh",
+      "description": "Kiểm tra trí nhớ của bạn bằng cách ghi nhớ các chuỗi hình ảnh",
+      "playButton": "Chơi Ghi Nhớ Hình Ảnh"
+    }
+  },
+  "benefits": {
+    "title": "Tại Sao Nên Chơi Các Trò Chơi Trí Tuệ?",
+    "description": "Việc rèn luyện trí não thường xuyên có thể giúp duy trì chức năng nhận thức, cải thiện trí nhớ và mang lại những thử thách thú vị giúp đầu óc bạn luôn nhạy bén và năng động."
+  },
+  "pages": {
+    "sudoku": {
+      "title": "Sudoku",
+      "description": "Rèn luyện tư duy logic của bạn với các câu đố số"
+    },
+    "pictureRecall": {
+      "title": "Ghi Nhớ Hình Ảnh",
+      "description": "Kiểm tra trí nhớ của bạn bằng cách tìm các cặp hình ảnh giống nhau"
+    }
+  },
+  "sudoku": {
+    "difficulties": {
+      "easy": {
+        "label": "Dễ",
+        "description": "Hoàn hảo cho người mới bắt đầu"
+      },
+      "medium": {
+        "label": "Trung bình",
+        "description": "Một thử thách vừa phải"
+      },
+      "hard": {
+        "label": "Khó",
+        "description": "Dành cho người chơi có kinh nghiệm"
+      },
+      "expert": {
+        "label": "Chuyên gia",
+        "description": "Thử thách cuối cùng"
+      }
+    },
+    "gameInfo": {
+      "difficulty": "Độ khó:",
+      "time": "Thời gian:",
+      "checkErrors": "⚠️ Kiểm tra lỗi"
+    },
+    "completion": {
+      "title": "🎉 Chúc mừng!",
+      "message": "Bạn đã hoàn thành câu đố trong {{time}}!"
+    },
+    "controls": {
+      "title": "Điều khiển",
+      "newGame": "Trò Chơi Mới",
+      "clearCell": "Xóa Ô",
+      "getHint": "Gợi ý (còn {{remaining}})",
+      "resetGame": "Chơi Lại"
+    },
+    "statistics": {
+      "title": "Thống Kê",
+      "gamesPlayed": "Số Lần Chơi:",
+      "gamesCompleted": "Số Lần Hoàn Thành:",
+      "bestTime": "Thời Gian Tốt Nhất:",
+      "averageTime": "Thời Gian Trung Bình:",
+      "currentStreak": "Chuỗi Thắng Hiện Tại:",
+      "bestStreak": "Chuỗi Thắng Dài Nhất:"
+    }
+  },
+  "pictureRecall": {
+    "difficulties": {
+      "3": {
+        "label": "3 Cặp",
+        "description": "Dễ - 6 thẻ"
+      },
+      "4": {
+        "label": "4 Cặp",
+        "description": "Trung bình - 8 thẻ"
+      },
+      "5": {
+        "label": "5 Cặp",
+        "description": "Khó - 10 thẻ"
+      }
+    },
+    "gameModes": {
+      "flags": {
+        "label": "Cờ Quốc Gia",
+        "description": "Cờ các nước"
+      },
+      "things": {
+        "label": "Đồ Vật",
+        "description": "Các vật dụng hàng ngày"
+      }
+    },
+    "gameInfo": {
+      "moves": "Số Lần Lật",
+      "pairs": "Số Cặp",
+      "time": "Thời Gian",
+      "preview": "Xem Trước"
+    },
+    "preview": {
+      "message": "Hãy ghi nhớ vị trí! Trò chơi bắt đầu sau {{time}} giây..."
+    },
+    "completion": {
+      "title": "Chúc Mừng!",
+      "message": "Bạn đã hoàn thành câu đố trong {{moves}} lần lật và {{time}}!"
+    },
+    "controls": {
+      "title": "Trò Chơi Mới",
+      "difficulty": "Độ Khó",
+      "theme": "Chủ Đề",
+      "resetGame": "Chơi Lại Ván Hiện Tại"
+    },
+    "statistics": {
+      "title": "Thống Kê",
+      "gamesPlayed": "Số Lần Chơi:",
+      "gamesCompleted": "Số Lần Hoàn Thành:",
+      "bestMoves": "Số Lần Lật Tốt Nhất:",
+      "bestTime": "Thời Gian Tốt Nhất:",
+      "clearStats": "Xóa Thống Kê"
+    },
+    "accessibility": {
+      "cardAlt": "Thẻ ghi nhớ"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+torch>=2.5.0
+torchaudio>=2.5.0
+torchvision>=0.20.0
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+python-multipart>=0.0.6
+gradio>=4.0.0
+requests>=2.25.0
+numpy<2.0
+librosa>=0.10.0
+soundfile
+scipy
+f5-tts
+

@@ -1,0 +1,25 @@
+{
+  "title": "Memory Map",
+  "description": "Explore places and create location-based memories",
+  "search": {
+    "placeholder": "Search for places, addresses, or landmarks...",
+    "button": "Search"
+  },
+  "buttons": {
+    "myLocation": "My Location",
+    "streetView": "Street View",
+    "addMemory": "Add Memory",
+    "save": "Save Memory",
+    "cancel": "Cancel",
+    "viewOnMap": "View on Map"
+  },
+  "place": {
+    "rating": "{{rating}}/5"
+  },
+  "memory": {
+    "addTitle": "Add a Memory Note",
+    "placeholder": "What memories do you have of this place?",
+    "savedTitle": "Saved Memories",
+    "visited": "Visited: {{date}}"
+  }
+}

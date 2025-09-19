@@ -1,0 +1,19 @@
+{
+  "buttons": {
+    "signIn": "Sign In",
+    "getStarted": "Get Started",
+    "register": "Register",
+    "login": "Login", 
+    "learnMore": "Learn More",
+    "experienceDemo": "Experience the Demo"
+  },
+  "navigation": {
+    "features": "Features",
+    "signIn": "Sign In",
+    "register": "Register"
+  },
+  "common": {
+    "myosotis": "Myosotis",
+    "copyright": "© 2025 Myosotis. Caring for memories, supporting families."
+  }
+}

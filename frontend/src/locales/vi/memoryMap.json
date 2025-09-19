@@ -1,0 +1,25 @@
+{
+  "title": "Bản Đồ Ký Ức",
+  "description": "Khám phá các địa điểm và tạo ra những kỷ niệm dựa trên vị trí",
+  "search": {
+    "placeholder": "Tìm kiếm địa điểm, địa chỉ hoặc danh lam thắng cảnh...",
+    "button": "Tìm kiếm"
+  },
+  "buttons": {
+    "myLocation": "Vị Trí Của Tôi",
+    "streetView": "Chế Độ Xem Phố",
+    "addMemory": "Thêm Ký Ức",
+    "save": "Lưu Ký Ức",
+    "cancel": "Hủy",
+    "viewOnMap": "Xem trên bản đồ"
+  },
+  "place": {
+    "rating": "{{rating}}/5"
+  },
+  "memory": {
+    "addTitle": "Thêm Ghi Chú Ký Ức",
+    "placeholder": "Bạn có kỷ niệm gì về nơi này?",
+    "savedTitle": "Ký Ức Đã Lưu",
+    "visited": "Đã ghé thăm: {{date}}"
+  }
+}

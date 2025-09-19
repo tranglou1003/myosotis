@@ -1,0 +1,48 @@
+{
+  "conversations": {
+    "title": "Cuộc Trò Chuyện",
+    "newChat": "Trò Chuyện Mới",
+    "noConversations": "Chưa có cuộc trò chuyện nào",
+    "startNewChat": "Bắt đầu một cuộc trò chuyện mới!",
+    "messageCount": "{{count}} tin nhắn",
+    "messageCount_plural": "{{count}} tin nhắn",
+    "deleteConversation": "Xóa cuộc trò chuyện",
+    "loading": "Đang tải các cuộc trò chuyện..."
+  },
+  "messages": {
+    "loading": "Đang tải tin nhắn...",
+    "careCompanion": "Bạn Đồng Hành Chăm Sóc",
+    "sendMessage": "Gửi tin nhắn"
+  },
+  "input": {
+    "placeholder": "Nhập tin nhắn của bạn...",
+    "sendMessage": "Gửi tin nhắn"
+  },
+  "starters": {
+    "title": "Bắt đầu với các gợi ý sau",
+    "subtitle": "Hoặc nhập câu hỏi của riêng bạn ở bên dưới",
+    "helpText": "Tôi ở đây để trò chuyện, cung cấp thông tin và bầu bạn với bạn bất cứ khi nào bạn cần.",
+    "suggestions": {
+      "schedule": "Lịch trình hôm nay của tôi có gì?",
+      "story": "Kể cho tôi một câu chuyện vui",
+      "memory": "Giúp tôi tìm một kỷ niệm",
+      "help": "Làm cách nào để sử dụng ứng dụng này?"
+    }
+  },
+  "deleteDialog": {
+    "title": "Xóa Cuộc Trò Chuyện?",
+    "message": "Bạn có chắc chắn muốn xóa cuộc trò chuyện này không? Hành động này không thể hoàn tác.",
+    "cancel": "Hủy",
+    "delete": "Xóa",
+    "deleting": "Đang xóa..."
+  },
+  "interface": {
+    "newConversation": "Cuộc Trò Chuyện Mới",
+    "intelligentAssistant": "Trợ Lý Chăm Sóc Thông Minh Myosotis",
+    "closeChat": "Đóng trò chuyện",
+    "chatSession": "Phiên trò chuyện: "
+  },
+  "errors": {
+    "dismiss": "Bỏ qua"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "lifeEvent": {
+    "title": {
+      "add": "Add New Memory",
+      "edit": "Edit Memory"
+    },
+    "fields": {
+      "title": {
+        "label": "Title",
+        "placeholder": "Enter event title..."
+      },
+      "type": {
+        "label": "Type",
+        "options": {
+          "image": "Image",
+          "video": "Video",
+          "audio": "Audio"
+        }
+      },
+      "startDate": {
+        "label": "Start Date"
+      },
+      "endDate": {
+        "label": "End Date"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Tell us about this memory..."
+      },
+      "file": {
+        "photo": "Photo",
+        "video": "Video",
+        "audio": "Audio",
+        "selected": "Selected: {{fileName}}"
+      }
+    },
+    "buttons": {
+      "add": "Add Memory",
+      "update": "Update Memory",
+      "cancel": "Cancel"
+    },
+    "preview": {
+      "alt": "Preview"
+    },
+    "required": "*"
+  },
+  "emergencyContact": {
+    "title": {
+      "add": "Add Emergency Contact",
+      "edit": "Edit Emergency Contact"
+    },
+    "fields": {
+      "contactName": {
+        "label": "Contact Name",
+        "placeholder": "Enter contact name"
+      },
+      "relationship": {
+        "label": "Relationship",
+        "placeholder": "Select relationship",
+        "options": {
+          "parent": "Parent",
+          "spouse": "Spouse",
+          "child": "Child",
+          "sibling": "Sibling",
+          "friend": "Friend",
+          "caregiver": "Caregiver",
+          "doctor": "Doctor",
+          "other": "Other"
+        }
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "Enter phone number"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "Enter email address"
+      },
+      "address": {
+        "label": "Address",
+        "placeholder": "Enter address"
+      },
+      "isPrimary": "Set as primary emergency contact"
+    },
+    "buttons": {
+      "cancel": "Cancel",
+      "addContact": "Add Contact",
+      "updateContact": "Update Contact"
+    },
+    "validation": {
+      "contactNameRequired": "Contact name is required",
+      "relationRequired": "Relation is required",
+      "phoneRequired": "Phone number is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email address",
+      "addressRequired": "Address is required"
+    },
+    "required": "*"
+  },
+  "confirmDelete": {
+    "title": "Delete Emergency Contact?",
+    "message": "Are you sure you want to delete <1>{{contactName}}</1>? This action cannot be undone.",
+    "buttons": {
+      "cancel": "Cancel",
+      "delete": "Delete"
+    }
+  }
+}

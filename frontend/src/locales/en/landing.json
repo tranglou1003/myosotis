@@ -1,0 +1,116 @@
+{
+  "hero": {
+    "title": "Holistic Care, Preserving <highlight>Memories</highlight> for Your Loved Ones",
+    "subtitle": "Myosotis is the digital companion for Alzheimer's patients and their families, delivering peace of mind and connection.",
+    "cta": "Experience the Demo"
+  },
+  "overview": {
+    "title": "Comprehensive Digital Care for Alzheimer's Families",
+    "subtitle": "Myosotis is more than just an app—it's a complete ecosystem designed to support both patients and their families throughout the Alzheimer's journey. Our platform combines cutting-edge AI technology with compassionate care features to preserve memories, maintain connections, and provide peace of mind.",
+    "forPatients": {
+      "title": "For Patients",
+      "description": "Interactive memory exercises, AI companionship, and cognitive assessments to maintain mental engagement and track progress."
+    },
+    "forFamilies": {
+      "title": "For Families", 
+      "description": "Collaborative memory books, emergency contacts management, and real-time progress monitoring to stay connected and informed."
+    },
+    "forCaregivers": {
+      "title": "For Caregivers",
+      "description": "Emergency response systems, caregiver guidance, and 24/7 AI support to ensure comprehensive care and safety."
+    }
+  },
+  "features": {
+    "title": "Our Products",
+    "subtitle": "Experience our core features designed to make a real difference in Alzheimer's care. Each feature has been carefully crafted based on real family needs and clinical insights.",
+    "aiMemories": {
+      "label": "AI Living Memories",
+      "title": "Keep Loved Ones’ Memories Alive",
+      "description": "Transform cherished photos and voice recordings into interactive AI avatars. With just one photo and a short voice sample, create lifelike talking memories that can tell stories, share wisdom, or provide comfort—preserving the essence of your loved ones forever.",
+      "features": {
+        "voiceSynthesis": "Deep neural voice synthesis technology",
+        "lipSync": "Natural lip-sync and facial expressions", 
+        "customContent": "Custom scripts or AI-generated content"
+      }
+    },
+    "aiCompanion": {
+      "label": "AI Care Companion",
+      "title": "24/7 Caring Companion",
+      "description": "An intelligent, a supportive companion available anytime you need it. Powered by SEA-LION AI for culturally-aware conversations in local languages, providing comfort, guidance, and friendly chat whenever needed.",
+      "features": {
+        "seaLion": "SEA-LION AI for local language support",
+        "contextualMemory": "Contextual memory for natural conversations",
+        "personalizedResponses": "Personalized responses based on user profile"
+      },
+      "chatExample": {
+        "greeting": "Good morning! How are you feeling today?",
+        "userResponse": "I'm a bit confused about my medication schedule.",
+        "aiResponse": "I understand. Let me help you with that. Your morning medication should be taken with breakfast..."
+      }
+    },
+    "memoryBook": {
+      "label": "Digital Memory Book",
+      "title": "Collaborative Family Storybook", 
+      "description": "Build a rich, interactive timeline where families come together to preserve memories. Add photos, write stories, and mark important life events in a beautiful, secure digital space that keeps precious memories alive for generations.",
+      "features": {
+        "collaborative": "Collaborative storytelling for families",
+        "timeline": "Interactive timeline with photos and events",
+        "secure": "Secure, private family space"
+      }
+    },
+    "cognitiveAssessment": {
+      "label": "Cognitive Assessment",
+      "title": "Track Mental Health Progress",
+      "description": "Regular, gentle cognitive assessments help monitor progress and provide valuable insights for healthcare providers. Our digital MMSE tests are designed to be engaging and stress-free while providing accurate measurements.",
+      "features": {
+        "mmse": "Standardized MMSE cognitive tests",
+        "tracking": "Progress tracking and historical data", 
+        "familyFriendly": "Easy-to-understand results for families"
+      }
+    },
+    "memoryMap": {
+      "label": "Memory Map",
+      "title": "Location-Based Memory Journey",
+      "description": "Explore meaningful places and create location-based memories with our interactive map feature. Navigate through familiar locations, add memory notes, and preserve the stories behind special places that hold significance in your life journey.",
+      "features": {
+        "googleMaps": "Interactive Google Maps integration",
+        "locationNotes": "Location-based memory notes and stories",
+        "streetView": "Street view and navigation features"
+      }
+    },
+    "miniGames": {
+      "label": "Mini Games",
+      "title": "Engaging Brain Training Games",
+      "description": "Exercise your mind with fun and challenging cognitive games designed to improve memory, attention, and problem-solving skills. Our collection includes Sudoku puzzles and picture recall games that adapt to your skill level.",
+      "features": {
+        "sudoku": "Sudoku puzzles with multiple difficulty levels",
+        "pictureRecall": "Picture recall memory training games",
+        "progressTracking": "Progress tracking and performance analytics"
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Getting started with Myosotis is simple and stress-free",
+    "steps": {
+      "createProfile": {
+        "title": "Create a Profile",
+        "description": "Set up your loved one's profile and contacts in just a few minutes. Secure and private by design."
+      },
+      "buildPractice": {
+        "title": "Build & Practice", 
+        "description": "Work together to add memories and complete brain training exercises. Make it a bonding experience."
+      },
+      "connectTrack": {
+        "title": "Connect & Track",
+        "description": "Family connects through stories and tracks cognitive health progress. Stay informed and involved."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Experience Myosotis?",
+    "subtitle": "Join families who are already creating meaningful connections and preserving precious memories. Start your journey today with our comprehensive care platform.",
+    "primaryButton": "Experience the Demo Now",
+    "secondaryButton": "Learn More"
+  }
+}

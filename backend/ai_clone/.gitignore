@@ -1,0 +1,103 @@
+# Test files and temporary scripts
+test_*.py
+*_test.py
+generate_*.py
+test_data/
+vietnamese_swagger_request.json
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker related
+docker-compose.override.yml
+
+# Logs and temporary files
+*.log
+logs/
+temp_*/
+tmp/
+
+# Model files and checkpoints (large files)
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+checkpoints/
+model_*/
+
+# AI Service specific ignores
+ai_service/Sonic/checkpoints/
+ai_service/Sonic/output/
+ai_service/Sonic/tmp_path/
+ai_service/Sonic/flagged/
+ai_service/Sonic/.gradio/
+ai_service/voiceclone_tts/model_english/
+ai_service/voiceclone_tts/results/
+ai_service/voiceclone_tts/uploads/
+ai_service/voiceclone_tts/public/
+ai_service/voiceclone_tts/performance_results.json
+
+# Demo and test files in AI services
+**/demo.py
+**/demo.sh
+**/test_*.py
+**/*_test.py
+**/gradio_app.py
+
+# Media files (audio/video outputs)
+*.wav
+*.mp3
+*.mp4
+*.avi
+*.mov
+*.flv
+
+# Temporary AI processing files
+**/tmp_*
+**/temp_*
+**/*temp*
+**/._____temp
+
+# Data directories
+lfs/
+mount-data-backup/
+public/human_clone/
+temp_clone/
+
+# Archive files
+*.tar.gz
+*.zip
+*.rar
+
+# Environment configuration
+sonic2_env.tar.gz
+sonic2_packages.txt
+environment_sonic2.yml
+export_env.sh

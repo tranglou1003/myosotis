@@ -1,0 +1,108 @@
+{
+  "lifeEvent": {
+    "title": {
+      "add": "Thêm ký ức mới",
+      "edit": "Chỉnh sửa ký ức"
+    },
+    "fields": {
+      "title": {
+        "label": "Tiêu đề",
+        "placeholder": "Nhập tiêu đề sự kiện..."
+      },
+      "type": {
+        "label": "Loại",
+        "options": {
+          "image": "Hình ảnh",
+          "video": "Video",
+          "audio": "Âm thanh"
+        }
+      },
+      "startDate": {
+        "label": "Ngày bắt đầu"
+      },
+      "endDate": {
+        "label": "Ngày kết thúc"
+      },
+      "description": {
+        "label": "Mô tả",
+        "placeholder": "Hãy kể cho chúng tôi về ký ức này..."
+      },
+      "file": {
+        "photo": "Ảnh",
+        "video": "Video",
+        "audio": "Âm thanh",
+        "selected": "Đã chọn: {{fileName}}"
+      }
+    },
+    "buttons": {
+      "add": "Thêm ký ức",
+      "update": "Cập nhật ký ức",
+      "cancel": "Hủy"
+    },
+    "preview": {
+      "alt": "Xem trước"
+    },
+    "required": "*"
+  },
+  "emergencyContact": {
+    "title": {
+      "add": "Thêm liên hệ khẩn cấp",
+      "edit": "Chỉnh sửa liên hệ khẩn cấp"
+    },
+    "fields": {
+      "contactName": {
+        "label": "Tên liên hệ",
+        "placeholder": "Nhập tên liên hệ"
+      },
+      "relationship": {
+        "label": "Mối quan hệ",
+        "placeholder": "Chọn mối quan hệ",
+        "options": {
+          "parent": "Cha mẹ",
+          "spouse": "Vợ/chồng",
+          "child": "Con",
+          "sibling": "Anh chị em",
+          "friend": "Bạn bè",
+          "caregiver": "Người chăm sóc",
+          "doctor": "Bác sĩ",
+          "other": "Khác"
+        }
+      },
+      "phone": {
+        "label": "Số điện thoại",
+        "placeholder": "Nhập số điện thoại"
+      },
+      "email": {
+        "label": "Địa chỉ email",
+        "placeholder": "Nhập địa chỉ email"
+      },
+      "address": {
+        "label": "Địa chỉ",
+        "placeholder": "Nhập địa chỉ"
+      },
+      "isPrimary": "Đặt làm liên hệ khẩn cấp chính"
+    },
+    "buttons": {
+      "cancel": "Hủy",
+      "addContact": "Thêm liên hệ",
+      "updateContact": "Cập nhật liên hệ"
+    },
+    "validation": {
+      "contactNameRequired": "Tên liên hệ là bắt buộc",
+      "relationRequired": "Mối quan hệ là bắt buộc",
+      "phoneRequired": "Số điện thoại là bắt buộc",
+      "emailRequired": "Email là bắt buộc",
+      "emailInvalid": "Vui lòng nhập địa chỉ email hợp lệ",
+      "addressRequired": "Địa chỉ là bắt buộc"
+    },
+    "required": "*"
+  },
+  "confirmDelete": {
+    "title": "Xóa liên hệ khẩn cấp?",
+    "message": "Bạn có chắc chắn muốn xóa <1>{{contactName}}</1>? Hành động này không thể hoàn tác.",
+    "buttons": {
+      "cancel": "Hủy",
+      "delete": "Xóa"
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "title": "Câu Hỏi Thường Gặp",
+  "description": "Tìm câu trả lời cho các câu hỏi thường gặp về việc sử dụng Myosotis để chăm sóc bệnh Alzheimer.",
+  "searchPlaceholder": "Tìm kiếm câu hỏi...",
+  "noResults": {
+    "title": "Không tìm thấy kết quả",
+    "description": "Hãy thử tìm kiếm với từ khóa khác hoặc xem tất cả danh mục ở trên."
+  },
+  "contactSupport": {
+    "title": "Vẫn cần hỗ trợ?",
+    "description": "Không tìm thấy câu trả lời bạn đang tìm kiếm? Đội ngũ hỗ trợ của chúng tôi luôn sẵn sàng giúp đỡ.",
+    "button": "Liên Hệ Hỗ Trợ"
+  },
+  "categories": {
+    "memoryAssessment": {
+      "title": "Đánh Giá Trí Nhớ & Bài Kiểm Tra MMSE",
+      "questions": [
+        {
+          "question": "Bài kiểm tra MMSE dùng để làm gì?",
+          "answer": "MMSE giúp đánh giá khả năng ghi nhớ, ngôn ngữ và tư duy – rất hữu ích trong việc theo dõi tiến triển bệnh Alzheimer."
+        },
+        {
+          "question": "Bao lâu nên làm lại bài kiểm tra MMSE?",
+          "answer": "Nên thực hiện mỗi 1–3 tháng. Hệ thống sẽ tự động nhắc bạn."
+        },
+        {
+          "question": "Điểm MMSE giảm có ý nghĩa gì?",
+          "answer": "Điểm giảm có thể cho thấy trí nhớ thay đổi. Đừng quá lo lắng – hãy xem đó là cơ hội để điều chỉnh chăm sóc phù hợp hơn."
+        }
+      ]
+    },
+    "nutritionSleep": {
+      "title": "Dinh Dưỡng & Giấc Ngủ",
+      "questions": [
+        {
+          "question": "Người thân tôi hay quên ăn. Tôi nên làm gì?",
+          "answer": "Bạn có thể đặt lời nhắc bằng giọng nói quen thuộc trong ứng dụng. Ưu tiên những món ăn đơn giản, quen thuộc."
+        },
+        {
+          "question": "Người bệnh ngủ không ngon vào ban đêm có bình thường không?",
+          "answer": "Rối loạn giấc ngủ là điều phổ biến. Hãy thử dùng tính năng \"Sundowning Soother\" để giúp họ thư giãn trước khi ngủ."
+        }
+      ]
+    },
+    "communicationPatient": {
+      "title": "Giao Tiếp Với Người Bệnh",
+      "questions": [
+        {
+          "question": "Nếu người bệnh không nhận ra tôi thì sao?",
+          "answer": "Hãy bình tĩnh và nhẹ nhàng giới thiệu lại bản thân. Có thể dùng hình ảnh hoặc giọng nói quen thuộc để gợi nhớ."
+        },
+        {
+          "question": "Người bệnh cứ lặp đi lặp lại một điều. Tôi có nên sửa họ không?",
+          "answer": "Không cần thiết. Hãy lắng nghe một cách kiên nhẫn. Việc lặp lại giúp họ kết nối với dòng suy nghĩ của mình."
+        }
+      ]
+    },
+    "emergencyDifficult": {
+      "title": "Trường Hợp Khẩn Cấp & Tình Huống Khó",
+      "questions": [
+        {
+          "question": "Người bệnh nói muốn \"về nhà\" dù đang ở nhà. Tôi nên làm gì?",
+          "answer": "Đừng tranh cãi. Hãy trấn an họ một cách nhẹ nhàng. Thử mở ảnh quen thuộc hoặc video từ \"Memory Films\"."
+        },
+        {
+          "question": "Nếu người bệnh đi ra ngoài một mình thì sao?",
+          "answer": "Kích hoạt tính năng \"Wandering Detection\" để nhận cảnh báo sớm. Bạn cũng có thể lưu các địa điểm quen thuộc trong \"Memory Map\"."
+        }
+      ]
+    },
+    "memoryCognitive": {
+      "title": "Chức Năng Nhận Thức & Trí Nhớ",
+      "questions": [
+        {
+          "question": "Bệnh Alzheimer là gì và nó ảnh hưởng đến trí nhớ ra sao?",
+          "answer": "Đây là bệnh tiến triển ảnh hưởng đến trí nhớ, hành vi và suy nghĩ. Có thể bắt đầu bằng sự hay quên và dần ảnh hưởng đến sinh hoạt hằng ngày."
+        },
+        {
+          "question": "Mất trí nhớ có luôn là dấu hiệu của Alzheimer không?",
+          "answer": "Không hẳn. Một chút đãng trí là bình thường khi lớn tuổi. Cần chẩn đoán y tế để xác định Alzheimer."
+        },
+        {
+          "question": "Làm thế nào để giúp duy trì trí nhớ cho họ?",
+          "answer": "Khuyến khích các hoạt động trí não, xem ảnh quen thuộc, chơi trò chơi trí nhớ và giữ thói quen hàng ngày."
+        },
+        {
+          "question": "Tôi có nên sửa họ nếu họ nhớ sai điều gì đó không?",
+          "answer": "Hãy nhẹ nhàng chuyển hướng cuộc trò chuyện nếu cần. Tránh tranh luận. Sự thoải mái tinh thần quan trọng hơn sự chính xác."
+        }
+      ]
+    },
+    "dailyCare": {
+      "title": "Chăm Sóc Hằng Ngày & Thói Quen",
+      "questions": [
+        {
+          "question": "Làm thế nào để tạo lịch sinh hoạt hằng ngày cho người mắc Alzheimer?",
+          "answer": "Hãy giữ lịch đơn giản, nhất quán. Sử dụng gợi ý hình ảnh, lời nhắc và dành thời gian dư dả cho mỗi hoạt động."
+        },
+        {
+          "question": "Khi họ không chịu tắm hoặc thay đồ thì làm sao?",
+          "answer": "Thử lại sau với giọng điệu nhẹ nhàng. Hãy cho họ lựa chọn và tạo không gian ấm cúng, riêng tư."
+        },
+        {
+          "question": "Tôi nên làm gì nếu họ không chịu giữ vệ sinh cá nhân?",
+          "answer": "Khuyến khích nhẹ nhàng và khen ngợi. Giọng nói và thói quen quen thuộc có thể giúp cải thiện hành vi."
+        },
+        {
+          "question": "Họ có thể sống một mình trong giai đoạn đầu không?",
+          "answer": "Một số người có thể, nếu có hỗ trợ và theo dõi. Nhưng rủi ro về an toàn sẽ tăng dần theo thời gian."
+        }
+      ]
+    },
+    "communicationSupport": {
+      "title": "Giao Tiếp & Hỗ Trợ Cảm Xúc",
+      "questions": [
+        {
+          "question": "Làm sao để nói chuyện mà không khiến họ hoang mang?",
+          "answer": "Dùng câu ngắn, rõ ràng. Nói chậm, nhìn vào mắt họ và tránh tiếng ồn xung quanh."
+        },
+        {
+          "question": "Nếu họ nổi giận hoặc có hành vi hung hăng thì sao?",
+          "answer": "Giữ bình tĩnh. Đừng cãi lại. Nếu cần, hãy rời đi và quay lại với giọng nói an ủi."
+        },
+        {
+          "question": "Họ cứ hỏi đi hỏi lại một câu – tôi nên làm gì?",
+          "answer": "Trả lời nhẹ nhàng hoặc chuyển hướng sự chú ý. Việc lặp lại là triệu chứng, không phải cố ý."
+        },
+        {
+          "question": "Nghe nhạc cũ có giúp ích không?",
+          "answer": "Có! Âm nhạc quen thuộc giúp kích thích trí nhớ và làm dịu tâm trạng."
+        }
+      ]
+    },
+    "safetyEmergency": {
+      "title": "An Toàn & Khẩn Cấp",
+      "questions": [
+        {
+          "question": "Làm sao để ngăn họ đi lang thang?",
+          "answer": "Thiết lập các biện pháp an toàn tại nhà và dùng tính năng \"Wandering Detection\" để nhận cảnh báo."
+        },
+        {
+          "question": "Tôi nên làm gì nếu họ mất tích?",
+          "answer": "Gọi ngay cho lực lượng chức năng. Cung cấp ảnh gần nhất và thông tin y tế của họ."
+        },
+        {
+          "question": "Làm sao biết họ còn an toàn khi nấu ăn hoặc dùng thiết bị điện?",
+          "answer": "Luôn giám sát khi nấu. Khi bệnh tiến triển, nên vô hiệu hóa bếp hoặc chuẩn bị bữa ăn sẵn."
+        },
+        {
+          "question": "Họ nói chuyện với người đã mất – điều đó có bình thường không?",
+          "answer": "Có thể xảy ra. Thay vì sửa sai, hãy lắng nghe và an ủi nhẹ nhàng."
+        }
+      ]
+    },
+    "familySupport": {
+      "title": "Gia Đình & Hỗ Trợ",
+      "questions": [
+        {
+          "question": "Làm sao để giải thích về bệnh Alzheimer cho trẻ nhỏ hoặc người thân?",
+          "answer": "Hãy nói thật nhưng nhẹ nhàng. Giải thích rằng trí nhớ suy giảm là do bệnh, không phải cố ý."
+        },
+        {
+          "question": "Tôi cảm thấy quá tải – có bình thường không?",
+          "answer": "Hoàn toàn bình thường. Chăm sóc người bệnh rất áp lực. Hãy tìm nhóm hỗ trợ hoặc chuyên gia tư vấn nếu cần."
+        },
+        {
+          "question": "Tôi có thể nghỉ ngơi mà không cảm thấy tội lỗi không?",
+          "answer": "Có chứ. Việc chăm sóc bản thân là rất quan trọng. Có thể dùng dịch vụ hỗ trợ tạm thời hoặc chia sẻ công việc với người thân."
+        },
+        {
+          "question": "Làm sao để kêu gọi thêm người thân cùng chăm sóc?",
+          "answer": "Hãy trao đổi rõ ràng. Phân chia công việc nhỏ và sử dụng ứng dụng để phối hợp hiệu quả."
+        }
+      ]
+    },
+    "appRelated": {
+      "title": "Câu Hỏi Về Ứng Dụng",
+      "questions": [
+        {
+          "question": "Tôi có thể thêm người thân hoặc người chăm sóc khác vào ứng dụng không?",
+          "answer": "Có. Bạn có thể mời người khác trong phần \"Danh bạ khẩn cấp\" hoặc \"Nhóm chăm sóc\"."
+        },
+        {
+          "question": "Tôi không rành công nghệ. Có chế độ đơn giản hơn không?",
+          "answer": "Chúng tôi đang phát triển chế độ \"Đơn giản hóa\" dành riêng cho người lớn tuổi. Bạn có thể bật thử trong phần cài đặt."
+        }
+      ]
+    }
+  }
+}

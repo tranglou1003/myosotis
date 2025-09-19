@@ -1,0 +1,175 @@
+{
+  "navigation": {
+    "dashboard": "Dashboard",
+    "myAccount": "My Account",
+    "discover": "Discover",
+    "faq": "FAQ"
+  },
+  "buttons": {
+    "createNewSchedule": "Create New Schedule",
+    "signOut": "Sign out",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "previousMonth": "Previous Month",
+    "nextMonth": "Next Month"
+  },
+  "notifications": {
+    "scheduleComingSoon": "Schedule feature is coming soon!"
+  },
+  "branding": {
+    "myosotis": "Myosotis"
+  },
+  "homePage": {
+    "title": "Dashboard",
+    "description": "Welcome to your health and memory care dashboard",
+    "features": {
+      "livingMemories": {
+        "title": "Living Memories",
+        "subtitle": "Create AI avatars with your loved one's voice"
+      },
+      "memoryTest": {
+        "title": "Memory Test",
+        "subtitle": "Take cognitive assessment"
+      },
+      "careCompanion": {
+        "title": "Care Companion",
+        "subtitle": "Chat with your AI companion"
+      },
+      "memoryFilms": {
+        "title": "Memory Films",
+        "subtitle": "View your cherished memories"
+      },
+      "memoryMap": {
+        "title": "Memory Map",
+        "subtitle": "Explore places and create location memories"
+      },
+      "miniGames": {
+        "title": "Mini Games",
+        "subtitle": "Exercise your mind with Sudoku puzzles"
+      }
+    },
+    "calendar": {
+      "months": {
+        "january": "January",
+        "february": "February", 
+        "march": "March",
+        "april": "April",
+        "may": "May",
+        "june": "June",
+        "july": "July",
+        "august": "August",
+        "september": "September",
+        "october": "October",
+        "november": "November",
+        "december": "December"
+      },
+      "daysOfWeekShort": {
+        "monday": "MON",
+        "tuesday": "TUE",
+        "wednesday": "WED",
+        "thursday": "THU",
+        "friday": "FRI",
+        "saturday": "SAT",
+        "sunday": "SUN"
+      }
+    },
+    "healthAssistant": {
+      "title": "Your Health Assistant",
+      "description": "Ready to help you with your health journey"
+    }
+  },
+  "discoverPage": {
+    "title": "Discover",
+    "description": "Explore all available features and tools",
+    "features": {
+      "livingMemories": {
+        "title": "Living Memories",
+        "description": "Create AI avatars with your loved one's voice"
+      },
+      "memoryTest": {
+        "title": "Memory Test (MMSE)",
+        "description": "Take cognitive assessment tests"
+      },
+      "memoryFilms": {
+        "title": "Memory Films",
+        "description": "View your photos and memories"
+      },
+      "scoreAnalysis": {
+        "title": "Score Analysis",
+        "description": "View your MMSE test results and track your progress"
+      },
+      "careCompanion": {
+        "title": "Care Companion",
+        "description": "Chat with your AI companion"
+      },
+      "emergencyContacts": {
+        "title": "Emergency Contacts",
+        "description": "Manage your emergency contacts and caregivers"
+      },
+      "memoryMap": {
+        "title": "Memory Map",
+        "description": "Explore places and create location-based memories with Street View"
+      },
+      "miniGames": {
+        "title": "Mini Games",
+        "description": "Exercise your mind with Sudoku and other brain puzzles"
+      }
+    }
+  },
+  "accountPage": {
+    "title": "My Account",
+    "description": "Manage your personal information and account settings",
+    "loading": "Loading personal information...",
+    "fields": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "dateOfBirth": "Date of Birth",
+      "gender": "Gender",
+      "address": "Address",
+      "city": "Current City",
+      "hometown": "Hometown",
+      "country": "Country",
+      "medicalNotes": "Medical Notes",
+      "notProvided": "Not provided",
+      "selectGender": "Select gender",
+      "male": "Male",
+      "female": "Female"
+    },
+    "buttons": {
+      "edit": "Edit Information",
+      "save": "Save Changes",
+      "cancel": "Cancel",
+      "saving": "Saving..."
+    },
+    "errors": {
+      "userIdNotFound": "User ID not found",
+      "fetchFailed": "Failed to fetch user information",
+      "saveFailed": "Failed to save personal information"
+    },
+    "messages": {
+      "updateSuccess": "Personal information updated successfully!"
+    }
+  },
+  "emergencyContacts": {
+    "title": "Emergency Contacts",
+    "description": "Manage your emergency contacts and caregivers",
+    "addContact": "Add Contact",
+    "noContacts": {
+      "title": "No Emergency Contacts",
+      "subtitle": "Add your emergency contacts to keep important people just a tap away",
+      "addButton": "Add Contact"
+    },
+    "actions": {
+      "call": "Call",
+      "email": "Email",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    "errors": {
+      "fetchFailed": "Failed to fetch emergency contacts"
+    },
+    "loading": "Loading contacts..."
+  }
+}
