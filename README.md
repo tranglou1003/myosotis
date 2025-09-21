@@ -351,11 +351,6 @@ docker compose logs ai-clone
 
 ### Contact Information
 
-**Myosotis Team**  
-📧 Email: ncminhhieu127@gmail.com  
-🌐 Website: https://seadev-1.ript.vn/  
-📍 Address: Ha Noi City, Vietnam
-
 ## 📜 License
 
 **© 2025 Myosotis Team. All Rights Reserved.**
@@ -372,9 +367,5 @@ This software and associated documentation files (the "Software") are proprietar
 ---
 Contact Information
 Myosotis Team
-
-📧 Email: ncminhhieu127@gmail.com
-🌐 Website: https://seadev-1.ript.vn/
-📍 Address: Ha Noi City, Vietnam
 
 *This README was last updated on September 16, 2025*
